@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Privacy Gateway for LLMs",
+  "description": "Enterprise-grade privacy and security proxy that detects sensitive data, calculates risk, masks PII with temporary session tokens, enforces pre-send security gates, and securely restores LLM responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
